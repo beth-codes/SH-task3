@@ -56,3 +56,19 @@ button{
 .btn{
     padding: 30px;
 }
+
+@media (max-width: 414px) {
+    .second-container-image{
+        width: 300px;
+        position: relative;
+        top: 5px;
+        left: 5px;
+        height: 500px;
+
+    }
+
+    p{
+        font-size: 130px;
+    }
+
+}
